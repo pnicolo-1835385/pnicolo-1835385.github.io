@@ -1,0 +1,60 @@
+h1{
+    text-align: center;
+    color: red;
+}
+
+#Header {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: left;
+    border: solid 8px black;
+}
+
+#Header h1 {
+    color: #ffbc00
+    font-weight: bold;
+    font-family: 'Passion One', cursive;
+}
+
+ul {
+    List-style-type: none;
+    padding-Left: 0px;
+}
+
+#LeftNav {
+    width: 400px;
+}
+
+#Content {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+div {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+    background-color: #8e41d5;
+}
+
+p {
+    color: white;
+    font-family: "Arial";
+}
+
+h3 {
+    color: #ffbc00
+    font-size: 40px;
+    font-family: 'Passion One', cursive;
+    margin-bottom: 0px;
+}
+
+body {
+    background-image: url("price.jpg")
+}
